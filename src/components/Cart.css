@@ -1,0 +1,20 @@
+.cart{width:250px;
+    height:500px;
+    border :1px solid grey;
+ display: flex;
+ 
+ margin: 20px;
+ gap:5px;
+ flex-direction: column;
+}
+
+.cart > h5:first-of-type {
+    color: #2F80ED;
+  }
+  
+  .cart > h5.blue {
+    color: #2F80ED;
+  }
+  .course{
+    color: #2F80ED;
+  }

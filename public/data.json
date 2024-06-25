@@ -1,0 +1,66 @@
+[
+    {
+      "name": "Introduction to Programming",
+      "description": "This course covers the basics of programming using Python. No prior experience required.",
+      "price": 49.99,
+      "credit": 3,
+      "image": "./course-registration/Asset/Rectangle 2-1.png"
+    },
+    {
+      "name": "Data Structures and Algorithms",
+      "description": "Learn essential data structures and algorithms to solve complex problems in software development.",
+      "price": 79.99,
+      "credit": 4,
+      "image": "./course-registration/Asset/Rectangle 2-2.png"
+    },
+    {
+      "name": "Web Development Fundamentals",
+      "description": "Master the art of building responsive websites with HTML, CSS, and JavaScript.",
+      "price": 59.99,
+      "credit": 3,
+      "image": "./course-registration/Asset/Rectangle 2-3.png"
+    },
+    {
+      "name": "Database Management Systems",
+      "description": "Explore the principles of designing and managing relational databases.",
+      "price": 69.99,
+      "credit": 3,
+      "image": "./course-registration/Asset/Rectangle 2-4.png"
+    },
+    {
+      "name": "Machine Learning Basics",
+      "description": "An introduction to machine learning with hands-on exercises in Python.",
+      "price": 89.99,
+      "credit": 4,
+      "image": "./course-registration/Asset/Rectangle 2-5.png"
+    },
+    {
+      "name": "Cybersecurity Fundamentals",
+      "description": "Learn about common cybersecurity threats and how to secure computer systems.",
+      "price": 69.99,
+      "credit": 3,
+      "image": "./course-registration/Asset/Rectangle 2-5.png"
+    },
+    {
+      "name": "Software Engineering Principles",
+      "description": "Discover best practices in software development, including agile methodologies.",
+      "price": 79.99,
+      "credit": 4,
+      "image": "./course-registration/Asset/Rectangle 2-6.png"
+    },
+    {
+      "name": "Computer Graphics and Visualization",
+      "description": "Create stunning graphics and visualizations using modern computer graphics techniques.",
+      "price": 74.99,
+      "credit": 3,
+      "image": "./course-registration/Asset/Rectangle 3.png"
+    },
+    {
+      "name": "Artificial Intelligence Applications",
+      "description": "Apply AI techniques to real-world problems in areas such as natural language processing and computer vision.",
+      "price": 94.99,
+      "credit": 4,
+      "image": "./course-registration/Asset/Rectangle 3-1.png"
+    }
+  ]
+  
